@@ -16,3 +16,6 @@ depend (only these ones will be available), specified as though they were create
 source activate example-environment
 conda env export --no-builds -f environment.yml
 ```
+
+### Sources
+ - https://github.com/binder-examples/conda
