@@ -6,7 +6,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-http://mybinder.org/v2/timostravels/H2/master?filepath=interpolate.ipynb
+https://mybinder.org/v2/gh/timostravels/H2/master?filepath=interpolate.ipynb
 
 ### Notes
 The `environment.yml` lists all Python libraries on which your notebooks
